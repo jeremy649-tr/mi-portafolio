@@ -264,7 +264,7 @@ export default function Portfolio() {
                 <div className="space-y-3 text-gray-300">
                   <p><span className="text-cyan-400 font-semibold">Nombre:</span> Jeremy Sánchez Abarca</p>
                   <p><span className="text-cyan-400 font-semibold">Ubicación:</span> Perú</p>
-                  <p><span className="text-cyan-400 font-semibold">Email:</span> jeremy@example.com</p>
+                  <p><span className="text-cyan-400 font-semibold">Email:</span> jericensanchezabarca219@gmail.com</p>
                   <p><span className="text-cyan-400 font-semibold">Teléfono:</span> +51 943 742 523</p>
                 </div>
               </div>
@@ -382,7 +382,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="font-semibold">Email</p>
-                      <p className="text-sm">jeremy@example.com</p>
+                      <p className="text-sm">jericensanchezabarca219@gmail.com</p>
                     </div>
                   </a>
                   
