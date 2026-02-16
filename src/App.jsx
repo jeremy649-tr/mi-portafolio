@@ -458,7 +458,7 @@ export default function Portfolio() {
           { Icon: Linkedin, href: 'https://www.linkedin.com/in/jeremy-sanchez-abarca-499798397/', color: 'hover:text-blue-400' },
           { Icon: Instagram, href: '#', color: 'hover:text-pink-400' },
           { Icon: Facebook, href: '#', color: 'hover:text-blue-500' },
-          { Icon: MessageCircle, href: 'https://wa.me/5194374200', color: 'hover:text-green-400' }
+          { Icon: MessageCircle, href: 'https://wa.me/51943742523', color: 'hover:text-green-400' }
         ].map(({ Icon, href, color }, i) => (
           <a key={i} href={href} className={`w-12 h-12 bg-gray-800/50 backdrop-blur rounded-full flex items-center justify-center border border-cyan-500/30 transition ${color}`} style={{ animation: `slideIn 0.5s ease ${i * 0.1}s backwards` }}>
             <Icon size={20} />
