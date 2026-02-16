@@ -265,7 +265,7 @@ export default function Portfolio() {
                   <p><span className="text-cyan-400 font-semibold">Nombre:</span> Jeremy Sánchez Abarca</p>
                   <p><span className="text-cyan-400 font-semibold">Ubicación:</span> Perú</p>
                   <p><span className="text-cyan-400 font-semibold">Email:</span> jeremy@example.com</p>
-                  <p><span className="text-cyan-400 font-semibold">Teléfono:</span> +51 943 742 00</p>
+                  <p><span className="text-cyan-400 font-semibold">Teléfono:</span> +51 943 742 523</p>
                 </div>
               </div>
               
@@ -392,7 +392,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="font-semibold">WhatsApp</p>
-                      <p className="text-sm">+51 943 742 00</p>
+                      <p className="text-sm">+51 943 742 523</p>
                     </div>
                   </a>
                   
